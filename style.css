@@ -297,20 +297,20 @@ html {
     align-items: center;
     font-size: 1.8rem;
     color: white;
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
 }
 
 .contatos h3 {
    font-size: 6rem;
-   margin-bottom: 3rem;
+   margin-bottom: 1.5rem;
    font-family: 'Indie Flower', cursive;
 }
 
 .contatos-secao {
     width: 650px;
     display: flex;
-    justify-content: space-between;
     font-size: 2rem;
+    justify-content: space-evenly;
 }
 
 .contatos-secao i{
