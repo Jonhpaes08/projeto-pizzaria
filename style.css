@@ -150,7 +150,14 @@ html {
 }
 
 /* Cardápio */
-
+.inicio{
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+.inicio:hover{
+    color: yellow;
+}
 .cardapio {
     width: 100vw;
     display: flex;
