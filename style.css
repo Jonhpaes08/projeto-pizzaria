@@ -186,6 +186,10 @@ html {
     align-items: center;
     gap: 30px;
 }
+/*
+.itens-cardapio:hover{
+
+}*/
 
 .itens-cardapio .info {
     background-color: rgb(221, 221, 221);
